@@ -2,6 +2,8 @@
 
 > Fetch stock data from the CLI
 
+![](./screenshot.gif?raw=true)
+
 ## Install
 
 ```
