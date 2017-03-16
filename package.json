@@ -1,0 +1,27 @@
+{
+  "name": "yahoo-stocks-cli",
+  "version": "0.0.0",
+  "description": "Fetch stock data from the CLI",
+  "main": "index.js",
+  "bin": {
+    "stocks": "./cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "stocks",
+    "cli",
+    "finance",
+    "yahoo"
+  ],
+  "author": "Vu Tran <vu@vu-tran.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bresenham": "^0.0.4",
+    "caporal": "^0.3.0",
+    "colors": "^1.1.2",
+    "drawille": "^1.1.0",
+    "yahoo-stocks": "^2.0.0"
+  }
+}
