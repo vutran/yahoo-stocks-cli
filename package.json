@@ -1,6 +1,6 @@
 {
   "name": "yahoo-stocks-cli",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Fetch stock data from the CLI",
   "main": "index.js",
   "bin": {
