@@ -2,12 +2,22 @@
 
 > Fetch stock data from the CLI
 
-## Usage
+## Install
 
 ```
 $ npm i -g yahoo-stocks-cli
+```
 
-$ stocks lookup AAPL // lookup AAPL information
+## Usage
 
-$ stocks history AAPL // lookup price history for AAPL
+Lookup a symbol
+
+```
+$ stocks lookup AAPL
+```
+
+Lookup price history for a symbol
+
+```
+$ stocks history AAPL
 ```
