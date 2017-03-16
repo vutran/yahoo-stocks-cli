@@ -21,3 +21,7 @@ Lookup price history for a symbol
 ```
 $ stocks history AAPL
 ```
+
+## License
+
+MIT © [Vu Tran](https://github.com/vutran/)
