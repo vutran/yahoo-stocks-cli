@@ -19,7 +19,7 @@
   "license": "MIT",
   "dependencies": {
     "bresenham": "^0.0.4",
-    "caporal": "^0.3.0",
+    "caporal": "^1.1.0",
     "colors": "^1.3.3",
     "drawille": "^1.1.0",
     "yahoo-stocks": "^2.0.4"
